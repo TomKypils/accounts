@@ -3,6 +3,7 @@ package com.easybytes.accounts.dto;
 
 import lombok.Data;
 
+// Accounts Dto
 @Data
 public class AccountsDto {
 
